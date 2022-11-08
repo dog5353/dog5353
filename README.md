@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @dog5353
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... reddit.com/u/dog-for-rainbow5353
+
+- 📫 How to reach me ... reddit.com/u/dog4rainbow5353
 
 <!---
 dog5353/dog5353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
